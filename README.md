@@ -75,7 +75,6 @@ Estou em constante busca por conhecimento em diferentes fontes e sou apaixonado 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
 />
-
 <img 
     align="left" 
     alt="MySql" 
@@ -83,14 +82,6 @@ Estou em constante busca por conhecimento em diferentes fontes e sou apaixonado 
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="GitHub" 
-    title="GitHub"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
 <img
     align="left" 
