@@ -111,13 +111,13 @@ Estou em constante busca por conhecimento em diferentes fontes e sou apaixonado 
   <img 
     align="left" 
     alt="GitHub Stats"  
-    style="padding-right: 10px;height:200px;" 
+    style="padding-right: 5px;height:200px;width:400px;" 
     src="https://github-readme-stats.vercel.app/api?username=BrunoCamargoDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&locale=pt-br"
   />
 <img 
       align="left" 
       alt="GitHub Stats" 
-      style="height:200px"
+      style="height:200px;width:305px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCamargodev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 
