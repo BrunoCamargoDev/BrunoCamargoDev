@@ -9,7 +9,7 @@ Estou em constante busca por conhecimento em diferentes fontes e sou apaixonado 
   <a href="https://www.instagram.com/brunin_camarg0/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" style="height:28px;">
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&to=bcamargo414@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&to=brunocamargo.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" style="height:28px;width:90px;">
   </a>
   
