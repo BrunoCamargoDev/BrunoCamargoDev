@@ -85,6 +85,12 @@ Estou em constante busca por conhecimento em diferentes fontes e sou apaixonado 
 />
 <img
     align="left" 
+    alt="SqlServer" 
+    title="SqlServer"
+    width="30px" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+<img
+    align="left" 
     alt="Django" 
     title="Django"
     width="30px" 
