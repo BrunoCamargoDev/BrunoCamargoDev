@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Bruno, tenho **18 anos** e atualmente curso **Técnico em Desenvolvimento de sistemas** pela **ETEC - Elias Nechar** (3º módulo).
+Me chamo Bruno, tenho **18 anos** e recentemente me formei no curso **Técnico em Desenvolvimento de sistemas** pela **ETEC - Elias Nechar**.
 Estou em constante busca por conhecimento em diferentes fontes e sou apaixonado por tecnologia e inovação.
 
 <div>
