@@ -98,7 +98,12 @@ Estou em constante busca por conhecimento em diferentes fontes e sou apaixonado 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
 />
 
-
 <br/>
 <br/>
 
+---
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=BrunoCamargoDev&theme=dark&locale=pt-br" width="490"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BrunoCamargoDev&layout=compact&theme=dark&locale=pt-br" width="400"/>
+</p>
